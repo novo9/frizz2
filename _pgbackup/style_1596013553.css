@@ -19,33 +19,15 @@
     background-color: #e51d1d;
 }
 
-#btn-reg {
+.btn-reg {
     font-family: 'Montserrat', sans-serif;
     background-color: #de5f85;
     border-style: none;
-    color: #ffffff;
+    color: #ffffff !important;
 }
 
-#btn-reg:hover {
-    color: #de5f85;
+.btn-reg:hover {
+    color: #de5f85 !important;
     border-color: #de5f85;
     background-color: #ffffff;
-}
-
-.btn-edit {
-    background-image: url('img/icons8-calendar-50.png');
-    background-repeat: no-repeat;
-    background-size: contain;
-    background-position: 20px 0;
-    background-origin: content-box;
-}
-
-.master-vote-counter-class {
-    padding-left: 0;
-    padding-right: 0;
-}
-
-.account-right-column-forst-row {
-    margin-left: 0;
-    margin-right: 0;
 }
